@@ -1,1 +1,1 @@
-# Student-management
+# Java Database Connectivity
